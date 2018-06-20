@@ -1,5 +1,5 @@
 package practice;
-
+//moghal pura
 public class Argue {
     public void Add(int a, int b, int c)
     {
